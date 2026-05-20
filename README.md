@@ -48,7 +48,7 @@ In mobile-friendly
 - Rust Soroban contract tests
 - Automated on push to main/develop branches
 
-### Passing Smart Contract Tests
+### Passing Smart Contract Tests:-
 The smart contracts have been migrated to Rust for the Stellar/Soroban ecosystem. 
 
 **Contract Tests:**
