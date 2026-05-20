@@ -67,7 +67,7 @@ cd rust-contracts/medichain
 cargo test
 ```
 
-## 🏗️ Smart Contracts Overview
+## 🏗️ Smart Contracts Overview:-
 
 ### MediChain Main Contract
 **Features:**
