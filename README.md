@@ -232,7 +232,7 @@ No page refresh needed - all updates are instant.
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Pinata IPFS](https://www.pinata.cloud/)
 
-## 📄 License
+## 📄 License:-
 MIT
 
 ## 🎯 Future Improvements
