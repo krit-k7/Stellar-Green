@@ -110,7 +110,7 @@ MediChain Main Contract:  CBG5DNSZQQJITR7OH5ELPDXLUG3EEX7W3FWNCFOZANQSXMQDUR2LGW
 MediReward Token (MRT):    CAS3J7J6Y7J6Y7J6Y7J6Y7J6Y7J6Y7J6Y7J6Y7J6Y7J6Y7J6Y7J6Y7J6
 ```
 
-## 🔐 Transaction Hashes
+## 🔐 Transaction Hashes:-
 (Verified on Soroban Explorer)
 
 ```text
