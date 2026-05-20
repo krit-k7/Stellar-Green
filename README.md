@@ -102,7 +102,7 @@ pub fn add_record_with_reward(
 
 This demonstrates real inter-contract communication on Soroban.
 
-## 📋 Contract Addresses
+## 📋 Contract Addresses:-
 (Deployed on Soroban Testnet)
 
 ```text
