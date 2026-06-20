@@ -10,16 +10,20 @@ MediChain is a fully decentralized Electronic Health Records (EHR) and Telemedic
 
 ## 📸 Platform Screenshots:-
 ### Dashboard & Upload
-![Dashboard Screenshot](./public/screenshots/dashboard.png)
+<img width="1471" height="700" alt="image" src="https://github.com/user-attachments/assets/213f320a-97c5-4a64-a465-e5305fdeceeb" />
+
 
 ### Medical Records Overview
-![Records Screenshot](./public/screenshots/records.png)
+<img width="1470" height="660" alt="image" src="https://github.com/user-attachments/assets/9f55c9ac-0209-458a-8455-0a0dd41dd337" />
+
 
 ### Record Detail View
-![Record Detail](./public/screenshots/detail_report.png)
+<img width="1461" height="748" alt="image" src="https://github.com/user-attachments/assets/248bdda8-5351-4f87-b60d-a62593e36185" />
+
 
 In mobile-friendly 
-<img width="1920" height="1080" alt="Screenshot 2026-04-05 110003" src="https://github.com/user-attachments/assets/0c480f3d-f90b-4aea-b9ea-b019c64768e6" />
+<img width="1548" height="779" alt="image" src="https://github.com/user-attachments/assets/9b6c4f16-d26e-4a83-a3e0-73da04a43887" />
+
 
 
 
@@ -35,11 +39,12 @@ In mobile-friendly
 
 
 ## ✅ CI/CD Pipeline Status:-
-[![CI Pipeline](https://github.com/payalbabar/stellar-green/actions/workflows/ci.yml/badge.svg)](https://github.com/payalbabar/stellar-green/actions/workflows/ci.yml)
+[![CI Pipeline](https://github.com/krit-k7/Stellar-Green/actions/workflows/ci.yml/badge.svg)](https://github.com/krit-k7/Stellar-Green/actions/workflows/ci.yml)
 
 ## 📱 Mobile Responsive View:-
 *The application is built with a mobile-first approach, ensuring a seamless experience across all devices.*
-![Mobile Responsive Screenshot](./public/mobile-screenshot.png)
+<img width="1261" height="581" alt="image" src="https://github.com/user-attachments/assets/471e393a-ac8c-4849-b8ef-a11c60071efb" />
+
 
 **Pipeline runs:**
 - Node dependency installation
